@@ -1,2 +1,2 @@
-Hello Dosto !! Today is day12 of 90DaysOfDevOps challenge. Today i will learn about git & Git-hub deeply.
+Hello Dosto!! This is temporary file for the day12 practise purpose.
 
