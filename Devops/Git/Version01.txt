@@ -1,4 +1,8 @@
 This is the first feature of our application.
+<<<<<<< HEAD
 This is the bug fix in  development branch
 This is gadbad code
 This feature will gadbad everything from now
+=======
+>>>>>>> parent of 34630cd (Added feature2 in development branch)
+Additional change in dev branch
